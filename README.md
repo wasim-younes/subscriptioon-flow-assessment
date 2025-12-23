@@ -31,3 +31,7 @@ This project was developed using a "Developer + AI" partnership:
 1. Clone the repository.
 2. Run flutter pub get.
 3. Run flutter run -d chrome (or your preferred device).
+
+## 📺 Process Recording
+You can watch the full development process, including the AI prompting and manual refactoring, here: 
+[**Watch the Technical Demo**](https://youtu.be/oBEaQ0SEr_A)
